@@ -1,0 +1,19 @@
+<Solution>
+  <Project Path="M01A02A/M01A02A.csproj" />
+  <Project Path="M01A02B/M01A02B.csproj" />
+  <Project Path="M01A02C/M01A02C.csproj" />
+  <Project Path="M01A02D/M01A02D.csproj" />
+  <Project Path="M01A02E/M01A02E.csproj" />
+  <Project Path="M01A03/M01A03.csproj" Id="b58409a1-3565-4221-ba35-c5a289a17477" />
+  <Project Path="M01A04/M01A04.csproj" Id="3818f14c-fdcc-44fb-859d-bdb3361abe80" />
+  <Project Path="M01A05/M01A05A.csproj" Id="10a177ee-34af-4e92-8ed6-59e211445620" />
+  <Project Path="M01A05B/M01A05B.csproj" Id="0b94fb3e-fa9c-4c1e-bcd3-345ba28412cf" />
+  <Project Path="M01A06/M01A06.csproj" Id="023e0bd2-e76f-46c3-94ce-7fc2c0843c64" />
+  <Project Path="M01A07/M01A07.csproj" Id="fbd362f9-b2e6-4057-a89e-2f0554b3ee6d" />
+  <Project Path="M01A08A/M01A08A.csproj" Id="cf9f2a2f-9383-4893-9bd6-69b162c6e2b0" />
+  <Project Path="M01A08B/M01A08B.csproj" Id="aedc3811-3878-400f-ba20-0d8e4f5abb76" />
+  <Project Path="M01A08C/M01A08C.csproj" Id="11a2c358-67b4-431e-b160-debd7234d869" />
+  <Project Path="M01A08D/M01A08D.csproj" Id="4190d9f3-0e87-4169-9bc3-8827418cc789" />
+  <Project Path="M01A08E/M01A08E.csproj" Id="aaa65f18-6f61-4145-86b4-4fb241264be8" />
+  <Project Path="M01A08F/M01A08F.csproj" Id="aaefb2ae-2e50-4469-a46b-fa734d35ce29" />
+</Solution>
