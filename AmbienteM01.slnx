@@ -20,4 +20,7 @@
   <Project Path="M01A10/M01A10.csproj" Id="3525ccd2-31b1-4d4f-9f23-7a0379c02223" />
   <Project Path="M01A11A/M01A11A.csproj" Id="26947184-8932-4173-bb1e-067aaae343da" />
   <Project Path="M01A11B/M01A11B.csproj" Id="7b49cdfe-32ca-492f-953d-4143640363c2" />
+  <Project Path="M01A12A/M01A12A.csproj" Id="e1b525a1-63de-4850-a29b-5a402b1c23ff" />
+  <Project Path="M01A12B/M01A12B.csproj" Id="2b7a538d-91ba-493d-a9d2-b078ddab8419" />
+  <Project Path="M01A12C/M01A12C.csproj" Id="3f1d38e4-b93f-4807-b53c-4acdf839f493" />
 </Solution>
