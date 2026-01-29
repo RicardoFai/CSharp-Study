@@ -1,6 +1,8 @@
 <Solution>
   <Project Path="Ex001/Ex001.csproj" Id="a64d131c-2c1a-426f-bdf5-fe11cfc211b1" />
   <Project Path="Ex002/Ex002.csproj" Id="f36a909a-836c-4b63-ba12-e7369a421a1c" />
-  <Project Path="ex003/ex003.csproj" Id="5fffa35e-e8e3-463c-b6d8-6191afc9d45b" />
-  <Project Path="ex004/ex004.csproj" Id="76b9ce90-5862-4095-bca3-06727bfd7752" />
+  <Project Path="ex003/ex003.csproj" DisplayName="Ex003" Id="5fffa35e-e8e3-463c-b6d8-6191afc9d45b" />
+  <Project Path="ex004/ex004.csproj" DisplayName="Ex004" Id="76b9ce90-5862-4095-bca3-06727bfd7752" />
+  <Project Path="Ex005/Ex005.csproj" Id="18496700-a679-4abb-9f8b-adc70fcf9ce7" />
+  <Project Path="Ex006/Ex006.csproj" Id="1d939c5c-df00-478e-be2a-f024ce3b7e75" />
 </Solution>
