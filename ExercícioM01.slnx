@@ -7,4 +7,5 @@
   <Project Path="Ex006/Ex006.csproj" Id="1d939c5c-df00-478e-be2a-f024ce3b7e75" />
   <Project Path="ex007/ex007.csproj" Id="a4b32193-be91-4e1b-954f-f0d5aa47d97c" />
   <Project Path="ex008/ex008.csproj" Id="3e80b48b-7f40-43be-9b16-c2676d23c932" />
+  <Project Path="ex009/ex009.csproj" Id="8fcfd4b4-2515-4d62-ab68-33f85cb975d1" />
 </Solution>
