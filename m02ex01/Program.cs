@@ -6,11 +6,14 @@ int op1 = 0;
 int op2 = 0;
 
 
+//Entrada de dados
 Console.Write("Digite o primeiro operando: ");
 int.TryParse(Console.ReadLine(), out op1);
 Console.Write("Digite o segundo operando: ");
 int.TryParse(Console.ReadLine(), out op2);
 
+
+//Processamento e saída de dados
 Console.WriteLine($"Calculando +{op1} = {+op1}"); // identidade
 Console.WriteLine($"Calculando -{op1} = {-op1}"); // negação
 Console.WriteLine($"Calculando {op1} + {op2} = {op1 + op2} "); // adição
