@@ -20,6 +20,7 @@ Console.WriteLine($"Calculando {op1} + {op2} = {op1 + op2} "); // adição
 Console.WriteLine($"Calculando {op1} - {op2} = {op1 - op2} ");// subtração
 Console.WriteLine($"Calculando {op1} * {op2} = {op1 * op2} ");// multiplicação
 Console.WriteLine($"Calculando {op1} / {op2} = {op1 / op2} **ERRO** ");// divisão inteira
+Console.WriteLine($"Calculando {op1} / {op2} = {(float)op1 / (float)op2:F2} ");// divisão real
 Console.WriteLine($"Calculando {op1} % {op2} = {op1 % op2} ");// resto da divisão
 
 
