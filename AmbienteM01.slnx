@@ -27,5 +27,6 @@
   <Project Path="M01A13A1/M01A13A1.csproj" Id="4c631890-9425-4c22-8a45-7f017d12ff53" />
   <Project Path="M02Ex002/M02Ex002.csproj" Id="a07c8667-d330-439e-944b-3e2c2da734c2" />
   <Project Path="M02Ex003/M02Ex003.csproj" Id="fbdd011a-3c42-4f4d-8c6d-857cc501f8ce" />
+  <Project Path="M02ex004/M02Ex004.csproj" Id="8ba20317-cf81-4c00-8dea-6adb8525f7ec" />
   <Project Path="m02ex01/m02Ex001.csproj" Id="eb857730-ad48-4180-a78c-820a3a65d59e" />
 </Solution>
